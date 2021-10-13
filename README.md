@@ -1,7 +1,9 @@
 Now require auth by registering at the endpoint 
 
 178.62.61.92:4001/register 
+
 with an example body of 
+
             {
                 "first_name":"martin",
                 "last_name":"conlon",
