@@ -27,9 +27,12 @@ the mock server
 
 once you have registered you can get a new token by sending a request to 
 178.62.61.92:4001/login
+
 with an example raw body of 
+
 {
     "email":"martinconlon2222@gmail.com",
     "password":"helloworld"
 }
+
 which will return the same as above with the token needed for the requests to the mock server
